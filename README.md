@@ -1,10 +1,10 @@
-NICK DAVIDSON'S ARCADE GAME IMPLEMENTATION
+Classic Arcade Game Clone
 ==========================================
 
 Steps to Play the Game
 ----------------------
 
-1. Open index.html in your browser of choice.
+1. Open the [live page](https://nickdandavidson.github.io/frontend-nanodegree-arcade-game-clone) in your browser of choice.
 
 2. The browser will alert you with instructions.
 
